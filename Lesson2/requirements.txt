@@ -1,7 +1,3 @@
 beautifulsoup4
-<<<<<<< HEAD
 pytube
 simpleaudio
-=======
-pytube
->>>>>>> c491dfedf4176276585740f75074faa0f7888345
