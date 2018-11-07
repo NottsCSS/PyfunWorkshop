@@ -5,3 +5,8 @@ __pycache__
 output
 themes
 downloaded/
+
+# FFMPEG dependencies
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe

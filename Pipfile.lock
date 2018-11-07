@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7228e39771d4b26abb17a472cc036f20391f2862cf1af0c91d4a01c6594ffa5d"
+            "sha256": "2efa8392720d9ed8f38da2a60b7ce962c04dcf9c50439fc3654d628ac4db7713"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -60,14 +60,6 @@
                 "sha256:71be40c1fbd28594214ecaecb58e7aa8b708eabfa0125c8a109ebd51edbd776a"
             ],
             "version": "==223"
-        },
-        "pytube": {
-            "hashes": [
-                "sha256:1fca7a3d7259ac55047c2b500b89290a291e547b8f5fdc7ade658d8b2aad3aaf",
-                "sha256:fc70233f92fb901ab984d417abcbd7e380ae95b70cdca4a170d7dc1f1795647b"
-            ],
-            "index": "pypi",
-            "version": "==9.3.3"
         },
         "pywin32": {
             "hashes": [
