@@ -8,6 +8,7 @@ fbchat = "*"
 "win10toast" = "*"
 "beautifulsoup4" = "*"
 pytube = "*"
+youtube-dl = "*"
 
 [dev-packages]
 pylint = "*"

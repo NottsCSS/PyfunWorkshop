@@ -1,2 +1,0 @@
-fbchat
-win10toast #growl for mac osx

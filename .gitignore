@@ -1,8 +1,7 @@
 .vscode
-.ve
+.venv
 ve
 __pycache__
 output
 themes
-ffmpeg-4.0.2-win64-static/
 downloaded/
