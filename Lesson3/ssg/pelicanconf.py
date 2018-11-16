@@ -3,12 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'me'
-SITENAME = 'StaticSite'
+SITENAME = 'test'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Asia/Kuala_Lumpur'
+TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'English'
 
@@ -31,7 +31,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = './themes/pelican-alchemy/alchemy'
+THEME = 'themes/pelican-alchemy/alchemy'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

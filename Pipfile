@@ -8,6 +8,8 @@ fbchat = "*"
 "win10toast" = "*"
 "beautifulsoup4" = "*"
 youtube-dl = "*"
+pelican = "*"
+markdown = "*"
 
 [dev-packages]
 pylint = "*"
