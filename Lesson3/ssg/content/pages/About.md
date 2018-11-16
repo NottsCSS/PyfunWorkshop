@@ -1,6 +1,5 @@
-Title: Death
+Title: About
 Date: 16-11-2018 18:41
-Category: Philosophy
 
 Everyone dies eventually, what makes your death special?
 
