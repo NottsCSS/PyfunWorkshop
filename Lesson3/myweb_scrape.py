@@ -11,3 +11,5 @@ page = BeautifulSoup(html, "html.parser")
 content = page.find("h1")
 
 print(content.text)
+
+connection.close()
