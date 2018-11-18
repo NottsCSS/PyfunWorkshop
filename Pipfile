@@ -10,6 +10,7 @@ fbchat = "*"
 youtube-dl = "*"
 pelican = "*"
 markdown = "*"
+kivy = "*"
 
 [dev-packages]
 pylint = "*"
