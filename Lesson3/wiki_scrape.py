@@ -10,13 +10,13 @@ page = BeautifulSoup(html, "html.parser")
 
 table = page.find("table")
 content = table.find("tbody")
-data = content.findAll("tr")
+data = content.find_all("tr")
 info_list = []
 
 for i in range(len(data)):
     entry = [
         e.text.replace("\n", "").replace("\xa0", "")
-         for e in data[i].findAll("td") if e.text != "\n"
+         for e in data[i].find_all("td") if e.text != "\n"
          ]
     
     if(len(entry) != 0):
