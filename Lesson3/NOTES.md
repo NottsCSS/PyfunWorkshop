@@ -187,7 +187,7 @@ I would like to get the list from this table from the wikipedia page.
 
 If we take a look at the html we will see a huge chunk of code.
 
-![htmlorigin](./resources/tableHtml.png)
+![tableHTML](./resources/tableHTML.png)
 
 The table is actually somewhere deeper inside the html, and when you find it, should look like something this.
 
