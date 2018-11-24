@@ -32,5 +32,5 @@ class MyPaintApp(App):
         self.painter.canvas.clear()
 
 
-if __name__ == '__main__':
-    MyPaintApp().run()
+
+MyPaintApp().run()
