@@ -241,7 +241,7 @@ Let's continue on and add the functionality to draw a line when we hold down the
 ```python
 from kivy.app import App
 from kivy.uix.widget import Widget
-from kivy.graphics import Color, Ellipse
+from kivy.graphics import Color, Ellipse, Line
 
 class MyPaintWidget(Widget):
     def on_touch_down(self, touch):
